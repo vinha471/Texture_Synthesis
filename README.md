@@ -33,12 +33,7 @@ Texture synthesis is the process of generating larger textures from small input 
 Texture_Synthesis/
 ├── README.md                           # This file
 ├── Texture_Synthesis_Non_Param_Samp.ipynb  # Main implementation notebook
-├── requirements.txt                    # Python dependencies
-├── examples/                          # Example outputs and demonstrations
-│   ├── sample_textures/              # Input texture samples
-│   └── results/                      # Generated texture outputs
-├── tests/                            # Unit tests for core functions
-└── docs/                             # Additional documentation
+└── requirements.txt                    # Python dependencies
 ```
 
 ## Installation
