@@ -1,0 +1,19 @@
+# Texture Synthesis Requirements
+# Core scientific computing
+numpy>=1.19.0
+scipy>=1.7.0
+
+# Image processing
+Pillow>=8.0.0
+opencv-python>=4.5.0
+
+# Visualization and plotting
+matplotlib>=3.3.0
+
+# Jupyter environment
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional: Additional image processing libraries
+# scikit-image>=0.18.0
+# imageio>=2.9.0
